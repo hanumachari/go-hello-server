@@ -46,10 +46,3 @@ To containerize the application using Docker
 docker build -t go-server .
 docker run -p 8080:8080 go-server
 ```
-
-
-Docker Support
-To containerize the application using Docker, create a Dockerfile with:
-Build and run the container:
-docker build -t go-server .
-docker run -p 8080:8080 go-server
