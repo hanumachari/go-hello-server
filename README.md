@@ -11,8 +11,8 @@ This is a basic HTTP server written in Go that listens on port `8080` and respon
 ### 1️⃣ Clone the Repository (Optional)  
 If you haven't already cloned the repository, run:  
 ```sh
-git clone https://github.com/hanumachari/hello-world.git
-cd hello-world
+git clone https://github.com/hanumachari/go-hello-server.git
+cd go-hello-server
 ```
 ### 2️⃣ Run the Server
 Execute the following command to start the server:
