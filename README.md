@@ -49,4 +49,4 @@ docker build -t go-server .
 docker run -p 8080:8080 go-server
 ```
 
-Note: If your host machine is based on macOS, copy the relevant Dockerfile from Docker directory to the project root directory before building the Docker image.
+Note: If your host machine is running macOS, copy the relevant Dockerfile from the Docker directory to the project root directory before building the Docker image.
