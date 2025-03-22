@@ -13,7 +13,7 @@ If you haven't already cloned the repository, run:
 ```sh
 git clone https://github.com/hanumachari/hello-world.git
 cd hello-world 
-
+### 1. Clone the Repository (Optional)  
 ### 2. Run the Server
 Execute the following command to start the server:
 
