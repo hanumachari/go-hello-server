@@ -18,7 +18,9 @@ cd hello-world
 Execute the following command to start the server:
 ```
 go run main.go
+```
 You should see this output:
+```
 Server is running on port 8080...
 ```
 ### 3️⃣ Test the Server
