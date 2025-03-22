@@ -43,8 +43,10 @@ go build -o server
 ```
 ### 🐳 Docker Support
 To containerize the application using Docker
-🔹 Build and Run the Container
+🔹 Build and Run the Container on linux host machine
 ```
 docker build -t go-server .
 docker run -p 8080:8080 go-server
 ```
+
+Note: If your host machine is based on macOS, copy the relevant Dockerfile from Docker directory to the project root directory before building the Docker image.
